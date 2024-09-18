@@ -1,5 +1,5 @@
-## Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CarolineSelis&theme=transparent&hide_border=true&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 <!--
 **CarolineSelis/CarolineSelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
