@@ -1,11 +1,26 @@
+## 💜 Olá, meu nome é <strong>Carol Selis!</strong>
+- 🏬 &nbsp; Estatístico
+- 🔭 &nbsp; MBA Data Science
+- 🎓 &nbsp; Cientista de Dados
+- 🌱 &nbsp; Nerd
 
-<img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=CarolineSelis&hide_border=true&locale=pt_BR" alt="ilustração do status do github">
+<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-### Carol Selis
+**Aplicações e Dados**
 
-[![Linkedin: Caroline](https://img.shields.io/badge/-CarolineSelis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/caroline-selis/)](www.linkedin.com/in/caroline-selis/)
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/devellenias/)](www.linkedin.com/in/devellendias/)
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
-[![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,react,java,php,laravel,mysql,spring,maven,bootstrap,jquery,js,html,css)](https://skillicons.dev)
+  
+**DevOps**
 
-<p>Trabalhando no SEBRAE PR<br/> Cientista de Dados </p>
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker)](https://skillicons.dev)
+  
+**Ferramentas de Desenvolvimento**
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,idea)](https://skillicons.dev)
+  <br/>
+<br/>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Ellen](https://img.shields.io/badge/-carolineselis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-selis/)](https://www.linkedin.com/in/caroline-selis/)
+[![Gmail Badge](https://img.shields.io/badge/-ellencdiass@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:ellencdias@gmail.com)
+[![GitHub]( https://img.shields.io/github/followers/DiasEllen26?label=follow&style=social)](https://github.com/DiasEllen26/)
