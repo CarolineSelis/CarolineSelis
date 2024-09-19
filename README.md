@@ -1,8 +1,9 @@
-## 💜 Olá, meu nome é <strong>Carol Selis!</strong>
-- 🏬 &nbsp; Estatístico
-- 🔭 &nbsp; MBA Data Science
-- 🎓 &nbsp; Cientista de Dados
-- 🌱 &nbsp; Nerd
+## Olá, meu nome é <strong>Carol Selis!</strong>
+[![Linkedin: Ellen](https://img.shields.io/badge/-carolineselis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-selis/)](https://www.linkedin.com/in/caroline-selis/)
+[![Gmail Badge](https://img.shields.io/badge/-CarolineSelis-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinemselis@gmail.com)](mailto:carolinemselis@gmail.com)
+
+👾 Nerd desde sempre, movida a dados e ficção científica. 
+Formada em Estatística, com MBA em Data Science.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -22,5 +23,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Ellen](https://img.shields.io/badge/-carolineselis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-selis/)](https://www.linkedin.com/in/caroline-selis/)
-[![Gmail Badge](https://img.shields.io/badge/-CarolineSelis-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinemselis@gmail.com)](mailto:carolinemselis@gmail.com)
-[![GitHub]( https://img.shields.io/github/followers/DiasEllen26?label=follow&style=social)](https://github.com/DiasEllen26/)
+[![Gmail Badge](https://img.shields.io/badge/-CarolineSelis-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinemselis@gmail.com)](mailto:carolinemselis@gmail.com)
+[![GitHub]( https://img.shields.io/github/followers/carolineselis?label=follow&style=social)](https://github.com/carolineselis/)
