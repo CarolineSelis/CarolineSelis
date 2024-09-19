@@ -1,8 +1,10 @@
 
 <img align='right' src="https://github-readme-streak-stats.herokuapp.com?user=CarolineSelis&hide_border=true&locale=pt_BR" alt="ilustração do status do github">
 
-### Olá, eu sou a Carol!
+### Carol Selis
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Caroline&color=B0E0E6&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+[![Linkedin: Ellen](https://img.shields.io/badge/-CarolineSelis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/caroline-selis/)](www.linkedin.com/in/caroline-selis/)
+[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
+[![Instagram](https://img.shields.io/badge/-{Nome}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
 
 <p>Trabalhando no SEBRAE PR<br/> Cientista de Dados </p>
