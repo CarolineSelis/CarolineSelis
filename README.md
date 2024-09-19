@@ -22,5 +22,5 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Ellen](https://img.shields.io/badge/-carolineselis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-selis/)](https://www.linkedin.com/in/caroline-selis/)
-[![Gmail Badge](https://img.shields.io/badge/-carolinemselis@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinemselis@gmail.com)](mailto:carolinemselis@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-CarolineSelis-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carolinemselis@gmail.com)](mailto:carolinemselis@gmail.com)
 [![GitHub]( https://img.shields.io/github/followers/DiasEllen26?label=follow&style=social)](https://github.com/DiasEllen26/)
